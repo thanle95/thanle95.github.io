@@ -414,7 +414,7 @@ const environment = {
     roleIdSinhVien: '72D56B81-BDE5-EA11-813B-C1CADD96C544',
     roleIdGiangVien: '73D56B81-BDE5-EA11-813B-C1CADD96C544',
     api: {
-        url: 'http://ptn.dhbk.hcm.ditagis.com/api/',
+        url: 'https://ptn.dhbk.hcm.ditagis.com/api/',
     },
     message: {
         TOKEN_EXPIRED: "Phiên đăng nhập hết hạn"
